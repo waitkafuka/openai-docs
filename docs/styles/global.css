@@ -1,0 +1,5 @@
+.escape-demo {
+    border: 1px solid var(--vp-c-border);
+    border-radius: 8px;
+    padding: 0 20px
+}
