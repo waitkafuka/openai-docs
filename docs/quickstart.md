@@ -13,7 +13,7 @@ OpenAI 已经训练了先进的语言模型，它非常擅长理解和生成文�
 
 ## 介绍
 
-[文本补全](./example.md)端点是我们 API 的核心，提供了一个简单、灵活和强大的接口。你将一些文本作为**提示**输入，API 将返回一个文本**补全**，试图匹配你给定的任何指令或上下文。
+[文本补全](/guides/completion)端点是我们 API 的核心，提供了一个简单、灵活和强大的接口。你将一些文本作为**提示**输入，API 将返回一个文本**补全**，试图匹配你给定的任何指令或上下文。
 
 <div class="completion-example-container"><div class="completion-example"><div class="completion-example-label body-small">Prompt</div><div>Write a tagline for an ice cream shop.</div><div></div><div class="completion-example-arrow"><svg style="display:inline-block" stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 20 20" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M16.707 10.293a1 1 0 010 1.414l-6 6a1 1 0 01-1.414 0l-6-6a1 1 0 111.414-1.414L9 14.586V3a1 1 0 012 0v11.586l4.293-4.293a1 1 0 011.414 0z" clip-rule="evenodd"></path></svg></div><div class="completion-example-label body-small">Completion</div><div class="tutorial-example-completion">We serve up smiles with every scoop!</div></div></div>
 

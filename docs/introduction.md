@@ -32,20 +32,20 @@ API 使用一组具有不同能力和价格的模型提供支持。GPT-4 是我�
 
 ### 指南
 
-[聊天 （Chat）](./example.md)  
+[聊天 （Chat）](/guides/chat)  
 学习如何使用基于聊天的语言模型
 
-[文本补全（Text completion）](./example.md)  
+[文本补全（Text completion）](/guides/completion)  
 学习如何生成和编辑文本
 
-[向量化（Embeddings）](./example.md)  
+[向量化（Embeddings）](/guides/embeddings)  
 学习如何搜索、分类和比较文本。
 
-[语音转文字（Speech to text）](./example.md)  
+[语音转文字（Speech to text）](/guides/speech-to-text))  
 学习如何把语音转为文字
 
-[图片生成（Image generation）](./example.md)  
+[图片生成（Image generation）](/guides/images)  
 学习如何生成和编辑图片
 
-[模型微调（Fine-tuning）](./example.md)  
+[模型微调（Fine-tuning）](/guides/fine-tuning)  
 学习如何训练自己的模型
